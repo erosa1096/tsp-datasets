@@ -18,6 +18,8 @@ response to the appropriate question in your TSP project submission.
 
 * MAAC Basketball Teams.  11 places.  Contributed by Jim Teresco.
 
+* Distances between 13 major cities in the U.S. Contributed by Emmanuel Rosario
+
 * NBA Eastern Conference cities.  15 places.  Contributed by John Lamb.
 
 * NFL Cities in the AFC as of 2016 plus Canton, Ohio.  17 places.
